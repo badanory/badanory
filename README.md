@@ -85,7 +85,12 @@ voice ─▶ Whisper ─▶ Qwen3 planner ─▶ TCP ─▶ C++ controller ─�
 | [**phil-matlab-analysis**](https://github.com/badanory/phil-matlab-analysis) | MATLAB log analysis: motor tracking plots, Simscape Multibody replay of logged motion, OBB/SAT arm–stick collision check | MATLAB, Simulink |
 | [Phil_Robot-AI-Drummer](https://github.com/badanory/Phil_Robot-AI-Drummer) | Legacy monorepo snapshot before the split | archive |
 
-<!-- TODO: 데모 GIF 또는 YouTube 링크. 예: <p align="center"><img src="docs/phil_demo.gif" width="600"/></p> -->
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=e5yeaPhEgs8">
+    <img src="https://img.youtube.com/vi/e5yeaPhEgs8/maxresdefault.jpg" alt="Phil playing a drum solo (top view)" width="720" />
+  </a><br/>
+  <a href="https://www.youtube.com/watch?v=e5yeaPhEgs8"><img src="https://img.shields.io/badge/▶%20Watch%20Phil%20play%20a%20drum%20solo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube" /></a>
+</p>
 
 <br/>
 
