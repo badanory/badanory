@@ -4,7 +4,7 @@
 
 <p align="center">
   Robotics engineer building <b>embodied AI</b>: LLM-driven robot behavior, real-time motor control, and simulation-in-the-loop.<br/>
-  Currently working on <b>Phil</b>, an AI drummer robot, at KIST.
+  Built <b>Phil</b>, an AI drummer robot, as a robotics engineer at <b>KIST</b> (Dec 2025 – Sep 2026).
 </p>
 
 <div align="center">
