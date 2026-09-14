@@ -37,6 +37,9 @@
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Linux%20RT-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <br/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge" />&nbsp;
+  <img src="https://img.shields.io/badge/Simulink%20%2F%20Simscape%20Multibody-0076A8?style=for-the-badge" />
 
   <h4>AI / ML</h4>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp;
