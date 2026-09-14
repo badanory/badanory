@@ -79,6 +79,7 @@ voice ─▶ Whisper ─▶ Qwen3 planner ─▶ TCP ─▶ C++ controller ─�
 | [**phil-interaction**](https://github.com/badanory/phil-interaction) | Brain: Whisper STT → Qwen3 classifier / planner → validated commands → MeloTTS | Python, Ollama, LangGraph |
 | [**phil-simulation**](https://github.com/badanory/phil-simulation) | Frame-level SIL: replays raw `can_frame` / Dynamixel packets into PyBullet | Python, PyBullet, vcan, PTY |
 | [**phil-midi-converter**](https://github.com/badanory/phil-midi-converter) | MIDI ↔ score converter: Groove MIDI Dataset drum tracks → Phil's text scores (quantize, merge, assign hands) and back to MIDI | C++17 |
+| [**phil-matlab-analysis**](https://github.com/badanory/phil-matlab-analysis) | MATLAB log analysis: motor tracking plots, Simscape Multibody replay of logged motion, OBB/SAT arm–stick collision check | MATLAB, Simulink |
 | [Phil_Robot-AI-Drummer](https://github.com/badanory/Phil_Robot-AI-Drummer) | Legacy monorepo snapshot before the split | archive |
 
 <!-- TODO: 데모 GIF 또는 YouTube 링크. 예: <p align="center"><img src="docs/phil_demo.gif" width="600"/></p> -->
