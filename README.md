@@ -112,3 +112,8 @@ voice ─▶ Whisper ─▶ Qwen3 planner ─▶ TCP ─▶ C++ controller ─�
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
 </div>
+
+## Control & Simulation Foundations
+
+- [Power Electronics Control Simulations](https://github.com/badanory/power-electronics-control-simulations) — C dq current control and SVPWM with saturation handling, tested against an averaged RL plant. Includes archived two-level VSI / three-level NPC PLECS studies and documented reproduction limits.
+
